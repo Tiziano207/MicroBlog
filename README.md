@@ -1,4 +1,4 @@
-MicroBlog
+#MicroBlog
 
 Introduzione
 Viene richiesto di implementare un Social Network, dove l’utente dopo essersi registrato 
