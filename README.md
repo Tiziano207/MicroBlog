@@ -1,4 +1,4 @@
-# Programmazione-2---Java-Project
+MicroBlog
 
 Introduzione
 Viene richiesto di implementare un Social Network, dove l’utente dopo essersi registrato 
